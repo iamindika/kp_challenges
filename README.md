@@ -2,3 +2,4 @@
 
 ## [Challenge 1](https://github.com/iamindika/kp_challenges/tree/main/challenge01) - Using percentages and avoiding heights
 
+## [Challege 2](./tree/main/challenge02) - Enter max-width
