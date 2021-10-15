@@ -27,3 +27,18 @@ header {
 .content {
   width: 50%;
 }
+
+.content h1 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.content p {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.btn {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
