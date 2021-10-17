@@ -10,18 +10,14 @@ html {
   color: #fff;
 }
 
-body {
-  margin: 0;
-}
-
 header {
-  height: 67vh;
+  /* height: 67vh; */
   background: #23424A;
 }
 
 .container {
-  width: 83%;
-  margin: 0px auto;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .content {
@@ -31,14 +27,25 @@ header {
 .content h1 {
   font-size: 3rem;
   font-weight: 900;
+  line-height: 3.5rem;
 }
 
 .content p {
   font-size: 1.3rem;
   font-weight: 400;
+  line-height: 2rem;
+  /* margin: 1rem 0; */
 }
 
 .btn {
   font-size: 1.3rem;
   font-weight: 700;
+  color: #072A2D;
+  background: #38CFD9;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  /* margin: 1rem 0;
+  padding: 1rem 3rem; */
+  border-radius: 2rem;
 }
