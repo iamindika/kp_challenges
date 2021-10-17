@@ -11,13 +11,13 @@ html {
 }
 
 header {
-  /* height: 67vh; */
   background: #23424A;
 }
 
 .container {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
+  padding: 18vmin 0;
 }
 
 .content {
@@ -34,7 +34,7 @@ header {
   font-size: 1.5vw;
   font-weight: 400;
   line-height: 1.5em;
-  /* margin: 1rem 0; */
+  margin: 2.5vmin 0 7.5vmin 0;
 }
 
 .btn {
@@ -47,7 +47,6 @@ header {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.05rem;
-  /* margin: 1rem 0; */
   padding: 0.5em 1em;
   border-radius: 2em;
 }
