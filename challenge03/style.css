@@ -38,8 +38,10 @@ header {
 }
 
 .btn {
-  font-size: 1.3rem;
+  display: inline-block;
+  font-size: 1.7vw;
   font-weight: 700;
+  text-align: center;
   color: #072A2D;
   background: #38CFD9;
   text-decoration: none;
@@ -56,5 +58,8 @@ header {
   }
   .content p {
     font-size: 1.3rem;
+  }
+  .btn {
+    font-size: 1.5rem;
   }
 }
