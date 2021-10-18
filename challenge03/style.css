@@ -4,6 +4,8 @@
 
 body {
   margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3125rem;
 }
 
 .hero {
@@ -18,7 +20,11 @@ body {
   margin: 0 auto;
 }
 
-html {
+.hero__text {
+  width: 60%;
+}
+
+/* html {
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   color: #fff;
@@ -65,4 +71,4 @@ html {
   .btn {
     font-size: 1.5rem;
   }
-}
+} */
