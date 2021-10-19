@@ -6,4 +6,4 @@
 
 ## [Challege 3](https://github.com/iamindika/kp_challenges/tree/main/challenge03) - Practice time!
 
-## [Challege 4](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge01) - Practice time!
+## [Challege 4](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge01) - Flexbox Basics
