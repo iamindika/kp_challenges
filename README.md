@@ -5,3 +5,5 @@
 ## [Challege 2](https://github.com/iamindika/kp_challenges/tree/main/challenge02) - Enter max-width
 
 ## [Challege 3](https://github.com/iamindika/kp_challenges/tree/main/challenge03) - Practice time!
+
+## [Challege 4](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge01) - Practice time!
