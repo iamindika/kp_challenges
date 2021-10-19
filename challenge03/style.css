@@ -24,51 +24,17 @@ body {
   width: 60%;
 }
 
-/* html {
-  font-size: 16px;
-  font-family: 'Roboto', sans-serif;
-  color: #fff;
-}
-
-.content {
-  width: 50%;
-}
-
-.content h1 {
-  font-size: 3.3vw;
-  font-weight: 900;
-  line-height: 1.1em;
-}
-
-.content p {
-  font-size: 1.5vw;
-  font-weight: 400;
-  line-height: 1.5em;
-  margin: 2.5vmin 0 7.5vmin 0;
+.hero p {
+  margin-bottom: 3em;
 }
 
 .btn {
   display: inline-block;
-  font-size: 1.7vw;
-  font-weight: 700;
-  text-align: center;
-  color: #072A2D;
-  background: #38CFD9;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 0.05rem;
-  padding: 0.5em 1em;
+  font-weight: 700;
+  color: #072A2D;
+  background: #38CFD9;
+  padding: 0.75em 2em;
   border-radius: 2em;
 }
-
-@media screen and (max-width: 1439px) {
-  .content h1 {
-    font-size: 2.9rem;
-  }
-  .content p {
-    font-size: 1.3rem;
-  }
-  .btn {
-    font-size: 1.5rem;
-  }
-} */
