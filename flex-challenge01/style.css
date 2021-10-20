@@ -51,8 +51,8 @@ body {
 
 .row {
   display: flex;
-  justify-content: center;
-  gap: 50px;
+  /* justify-content: center; */
+  /* gap: 50px; */
   padding: 100px 0;
 }
 
@@ -63,6 +63,10 @@ body {
 .col h2 {
   font-size: 2.25rem;
   font-weight: 900;
+}
+
+.col + .col {
+  margin-left: 30px;
 }
 
 .light-bg h2 {
