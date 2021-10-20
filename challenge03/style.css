@@ -24,6 +24,11 @@ body {
   width: 60%;
 }
 
+.hero__text h1 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
 .hero p {
   margin-bottom: 3em;
 }
