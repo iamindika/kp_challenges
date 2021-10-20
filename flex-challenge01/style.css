@@ -51,9 +51,6 @@ body {
 
 .row {
   display: flex;
-  /* justify-content: center; */
-  /* gap: 50px; */
-  padding: 100px 0;
 }
 
 .col {
@@ -69,11 +66,20 @@ body {
   margin-left: 30px;
 }
 
-.light-bg h2 {
+.three-col {
+  padding: 3em 0;
+}
+
+.three-col h2 {
   color: #87629A;
 }
 
-.dark-bg {
+.two-col {
+  padding: 3em 0;
   background-color: #136C72;
   color: #FFF;
+}
+
+.center {
+  text-align: center;
 }
