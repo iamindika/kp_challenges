@@ -43,3 +43,9 @@ body {
 .btn:focus {
   opacity: 0.75;
 }
+
+.row {
+  display: flex;
+  gap: 50px;
+  margin: 100px 0;
+}
