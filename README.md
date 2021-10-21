@@ -7,3 +7,5 @@
 ## [Challenge 3](https://github.com/iamindika/kp_challenges/tree/main/challenge03) - Practice time!
 
 ## [Challenge 4](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge01) - Flexbox Basics
+
+## [Challenge 5](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge02) - A deeper dive into flexbox
