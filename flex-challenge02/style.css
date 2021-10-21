@@ -27,10 +27,15 @@ body {
 .hero__text h1 {
   font-size: 3rem;
   font-weight: 900;
+  margin-top: 0;
 }
 
-.hero p {
+.hero__text p {
   margin-bottom: 3em;
+}
+
+.hero__img {
+  width: 30%;
 }
 
 .btn {
@@ -47,6 +52,11 @@ body {
 .btn:hover,
 .btn:focus {
   opacity: 0.75;
+}
+
+.flex-row {
+  display: flex;
+  justify-content: space-between;
 }
 
 .d-flex {
