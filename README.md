@@ -9,3 +9,5 @@
 ## [Challenge 4](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge01) - Flexbox Basics
 
 ## [Challenge 5](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge02) - A deeper dive into flexbox
+
+## [Challenge 6](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge03) - Using flexbox for a navigation
