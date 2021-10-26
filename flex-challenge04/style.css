@@ -7,3 +7,33 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1.3125rem;
 }
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero {
+  background-color: #F3EED9;
+}
+
+.content {
+  max-width: 50%;
+  min-height: 660px;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.hero__title {
+  margin: 0;
+  font: 900 3.75rem 'Playfair Display', sans-serif;
+  color: #824936;
+}
+
+.hero__subtitle {
+  margin-top: 0;
+  font: 300 1.125rem 'Roboto', serif;
+  text-transform: uppercase;
+  letter-spacing: 0.5rem;
+}
