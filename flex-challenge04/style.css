@@ -12,6 +12,7 @@ img {
 }
 
 h3 {
+  margin-top: 0;
   font: 900 2.25rem 'Playfair Display', sans-serif;
 }
 
@@ -65,7 +66,6 @@ h3 {
 }
 
 .main__section1 h3 {
-  margin-top: 0;
   color: #824936;
   text-align: center;
 }
@@ -76,6 +76,12 @@ h3 {
   color: #FFF;
 }
 
-.main__section2 h3 {
-  margin-top: 0;
+.main__section3 {
+  padding: 5em 0;
+  background-color: #824936;
+  color: #FFF;
+}
+
+.main__section3__content {
+  order: 2;
 }
