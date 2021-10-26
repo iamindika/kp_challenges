@@ -7,6 +7,10 @@ body {
   font: 400 1.3125rem 'Roboto', sans-serif;
 }
 
+img {
+  width: 45%;
+}
+
 h3 {
   font: 900 2.25rem 'Playfair Display', sans-serif;
 }
@@ -23,7 +27,7 @@ h3 {
 
 .container {
   max-width: 80%;
-  margin: 5em auto;
+  margin: 0 auto;
 }
 
 .col {
@@ -56,7 +60,22 @@ h3 {
   letter-spacing: 0.5rem;
 }
 
+.main__section1 {
+  padding: 5em 0;
+}
+
 .main__section1 h3 {
+  margin-top: 0;
   color: #824936;
   text-align: center;
+}
+
+.main__section2 {
+  padding: 5em 0;
+  background-color: #222C2A;
+  color: #FFF;
+}
+
+.main__section2 h3 {
+  margin-top: 0;
 }
