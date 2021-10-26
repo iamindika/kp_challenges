@@ -27,7 +27,7 @@ h3 {
 }
 
 .container {
-  max-width: 80%;
+  width: min(80%, 1128px);
   margin: 0 auto;
 }
 
@@ -41,7 +41,7 @@ h3 {
 }
 
 .content {
-  max-width: 70%;
+  width: min(70%, 790px);
   min-height: 660px;
   margin: 0 auto;
   text-align: center;
