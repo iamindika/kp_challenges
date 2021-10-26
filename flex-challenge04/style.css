@@ -4,8 +4,11 @@
 
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.3125rem;
+  font: 400 1.3125rem 'Roboto', sans-serif;
+}
+
+h3 {
+  font: 900 2.25rem 'Playfair Display', sans-serif;
 }
 
 .column {
@@ -13,12 +16,27 @@ body {
   flex-direction: column;
 }
 
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 80%;
+  margin: 5em auto;
+}
+
+.col {
+  width: 45%;
+  line-height: 1.5em;
+}
+
 .hero {
   background-color: #F3EED9;
 }
 
 .content {
-  max-width: 50%;
+  max-width: 70%;
   min-height: 660px;
   margin: 0 auto;
   text-align: center;
@@ -36,4 +54,9 @@ body {
   font: 300 1.125rem 'Roboto', serif;
   text-transform: uppercase;
   letter-spacing: 0.5rem;
+}
+
+.main__section1 h3 {
+  color: #824936;
+  text-align: center;
 }
