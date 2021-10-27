@@ -74,6 +74,7 @@ h2 {
   padding: 0;
   list-style: none;
   justify-content: flex-start;
+  align-items: center;
 }
 
 .nav__item + .nav__item {
