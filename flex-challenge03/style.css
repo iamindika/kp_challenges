@@ -69,12 +69,20 @@ h2 {
   text-align: center;
 }
 
+.logo {
+  margin-right: 1em;
+}
+
+.nav {
+  flex-grow: 1;
+  align-items: center;
+}
+
 .nav__list {
   margin: 0;
   padding: 0;
   list-style: none;
   justify-content: flex-start;
-  align-items: center;
 }
 
 .nav__item + .nav__item {
