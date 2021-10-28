@@ -85,6 +85,10 @@ h2 {
   justify-content: flex-start;
 }
 
+.nav__list--primary {
+  margin: 0 auto;
+}
+
 .nav__item + .nav__item {
   margin-left: 1em;
 }
@@ -139,4 +143,21 @@ h2 {
   text-align: center;
   background-color: #136C72;
   color: #FFF;
+}
+
+@media (max-width: 600px) {
+  .row {
+    display: block;
+  }
+
+  .hero__text, 
+  .hero__img,
+  .primary-content,
+  .sidebar {
+    width: 100%;
+  }
+
+  .hero__img {
+    margin-top: 2em;
+  }
 }
