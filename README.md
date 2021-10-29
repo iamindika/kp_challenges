@@ -13,3 +13,5 @@
 ## [Challenge 6](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge03) - Using flexbox for a navigation
 
 ## [Challenge 7](https://github.com/iamindika/kp_challenges/tree/main/flex-challenge04) - Getting fancy with navigation
+
+## [Challenge 8](https://github.com/iamindika/kp_challenges/tree/main/nav-challenge) - Mobile navigation challenge
